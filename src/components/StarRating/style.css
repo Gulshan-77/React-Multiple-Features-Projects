@@ -1,0 +1,17 @@
+.star {
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20% auto;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: pink;
+}
